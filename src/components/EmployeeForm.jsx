@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import EmployeeTable from './components/EmployeeTable'
+import EmployeeTable from './EmployeeTable'
 
 class EmployeeForm extends Component {
 
